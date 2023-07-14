@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -47,3 +48,6 @@ The course is offered in English.
 
 * Thore Brehmer - solved exercises related to informatics
 * Yumeng Li - solved exercises related to mathematics
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
